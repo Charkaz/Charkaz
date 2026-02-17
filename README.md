@@ -65,4 +65,4 @@ Strong interest in domain modeling, performance optimization, and understanding 
 
 ## Contact
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/charkaz
